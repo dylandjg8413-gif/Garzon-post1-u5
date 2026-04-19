@@ -42,16 +42,16 @@ di/
 Evidencias de funcionamiento
 
 Lista cargada (Estado Success)
-![App](Post5_Evidencia/App.png)
+![App](Post5_Evidencia/App.PNG)
 
 Paginación (Botón "Cargar más")
-![Carga mas](Post5_Evidencia/Carga_mas.png)
+![Carga mas](Post5_Evidencia/Carga_mas.PNG)
 
 Carga de más elementos
-![Cargar mas](Post5_Evidencia/Cargar_mas.png)
+![Cargar mas](Post5_Evidencia/Cargar_mas.PNG)
 
 Estado de error (Sin conexión)
-![Error](Post5_Evidencia/Error.png)
+![Error](Post5_Evidencia/Error.PNG)
 
 Funcionalidad
 Al iniciar la app se cargan los datos automáticamente
